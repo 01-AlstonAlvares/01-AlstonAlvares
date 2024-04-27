@@ -1,9 +1,9 @@
 <h1 align="center">Hlo 👋, I'm Alston Alvares</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Programmer from India</h3>
 
 - 🔭 I’m currently working on [Blacez](https://blacez5432.github.io/BLACEZ/BLACEZ/Blacez.html)
 
-- 🌱 I’m currently learning **React JS, Django.**
+- 🌱 I’m currently learning **DATA SCIENCE, MACHINE LEARNING, ARTIFICIAL INTELLIGENCE.**
 
 - 👨‍💻 All of my projects are available at [https://01-alstonalvares.github.io/portfolio/Alston.html](https://01-alstonalvares.github.io/portfolio/Alston.html)
 
