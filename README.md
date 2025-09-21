@@ -1,15 +1,12 @@
 <h1 align="center">Hlo 👋, I'm Alston Alvares</h1>
-<h3 align="center">A passionate Programmer from India</h3>
+<h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
-- 🔭 I’m currently working on [Blacez](https://blacez5432.github.io/BLACEZ/BLACEZ/Blacez.html)
+- 🔭 I’m currently studying at Asian Institute of Technology
 
-- 🌱 I’m currently learning **DATA SCIENCE, MACHINE LEARNING, ARTIFICIAL INTELLIGENCE.**
+- 🌱 I’m currently learning **DATA SCIENCE AND ARTIFICIAL INTELLIGENCE.**
 
-- 👨‍💻 All of my projects are available at [https://01-alstonalvares.github.io/portfolio/Alston.html](https://01-alstonalvares.github.io/portfolio/Alston.html)
 
 - 📫 How to reach me **alstonalvares.edu@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/01-AlstonAlvares/resume/blob/main/Alston%20Resume.pdf](https://github.com/01-AlstonAlvares/resume/blob/main/Alston%20Resume.pdf)
 
 - ⚡ Fun fact **I have a High adaptability rate.**
 
